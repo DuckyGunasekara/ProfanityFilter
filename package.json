@@ -1,0 +1,19 @@
+{
+  "name": "profanityfilter",
+  "version": "1.0.0",
+  "description": "Profanity filter for SP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenseiDucky/ProfanityFilter.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SenseiDucky/ProfanityFilter/issues"
+  },
+  "homepage": "https://github.com/SenseiDucky/ProfanityFilter#readme"
+}

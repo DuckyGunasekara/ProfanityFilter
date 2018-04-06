@@ -1267,6 +1267,7 @@ INSERT INTO `BadWords`(`BadWord`) VALUES ("poepol");
 INSERT INTO `BadWords`(`BadWord`) VALUES ("pose");
 INSERT INTO `BadWords`(`BadWord`) VALUES ("poes");
 INSERT INTO `BadWords`(`BadWord`) VALUES ("sies");
+INSERT INTO `BadWords`(`BadWord`) VALUES ("skop");
 INSERT INTO `BadWords`(`BadWord`) VALUES ("vark");
 INSERT INTO `BadWords`(`BadWord`) VALUES ("vrot");
 INSERT INTO `BadWords`(`BadWord`) VALUES ("eina");

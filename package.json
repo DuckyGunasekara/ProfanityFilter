@@ -17,9 +17,12 @@
   },
   "homepage": "https://github.com/SenseiDucky/ProfanityFilter#readme",
   "dependencies": {
+    "babel-helper-regex": "^6.26.0",
     "fs": "0.0.1-security",
     "leo-profanity": "^1.2.4",
-    "path": "^0.12.7"
+    "npm": "^5.8.0",
+    "path": "^0.12.7",
+    "string": "^3.3.3"
   },
   "devDependencies": {
     "@types/node": "^9.6.2"

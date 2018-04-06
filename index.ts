@@ -38,8 +38,6 @@ async function writeList () {
     var finalText = '';
     var listCounter = 0, listSize = finalList.length;
 
-    
-    
     for(listCounter = 0; listCounter < (listSize-1); listCounter++)
     {
         finalText = finalText +  'INSERT INTO `BadWords`(`BadWord`) VALUES ("' + finalList[listCounter]  + '");' +  '\r\n';
